@@ -1,0 +1,7 @@
+streamlit==1.26.0
+sqlite3-binary
+transformers==4.31.0
+sentence-transformers==2.2.2
+scikit-learn==1.2.2
+spacy==3.5.0
+web3==6.0.0
